@@ -33,7 +33,7 @@ android {
     }
     defaultConfig {
         multiDexEnabled true
-        minSdkVersion 23
+        minSdkVersion 22
         targetSdkVersion 34
     }
     compileOptions {
